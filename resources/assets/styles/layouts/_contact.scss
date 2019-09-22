@@ -1,0 +1,16 @@
+.contact {
+  h2 {
+    color: #ff6464;
+    text-align: center;
+    margin: 20px 0;
+  }
+}
+
+.contact-img {
+  display: flex;
+  justify-content: center;
+
+  img {
+    max-width: 400px;
+  }
+}
